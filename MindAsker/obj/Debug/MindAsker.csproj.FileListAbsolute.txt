@@ -1,0 +1,9 @@
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\MindAsker\MindAsker\obj\Debug\MindAsker.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\MindAsker\MindAsker\bin\Debug\MindAsker.exe.config
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\MindAsker\MindAsker\bin\Debug\MindAsker.exe
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\MindAsker\MindAsker\bin\Debug\MindAsker.pdb
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\MindAsker\MindAsker\obj\Debug\MindAsker.exe
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\MindAsker\MindAsker\obj\Debug\MindAsker.pdb
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\MindAsker\MindAsker\bin\Debug\System.Data.SQLite.dll
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\MindAsker\MindAsker\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\MindAsker\MindAsker\bin\Debug\System.Data.SQLite.xml
